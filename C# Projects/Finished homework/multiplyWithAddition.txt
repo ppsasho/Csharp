@@ -1,0 +1,13 @@
+/*
+Dodeka 'i' e pomal od vtoriot broj, 
+na rezultatot se inkrementira
+vrednosta na prviot broj
+*/
+int num1 = 7;
+int num2 = 5;
+int result = 0;
+for (int i = 1; i <= num2; i++)
+{
+result += num1;
+}
+Console.WriteLine($"7 x 5 = {result}!");

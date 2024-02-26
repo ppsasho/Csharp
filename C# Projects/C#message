@@ -1,0 +1,25 @@
+/* 
+The purpose of this code is
+to reverse the chars count the o's and
+convert it back to a string print it out
+*/
+
+string originalMessage = "The quick brown fox jumps over the lazy dog.";
+
+char[] message = originalMessage.ToCharArray();
+
+Array.Reverse(message);
+int x = 0;
+
+foreach (char i in message) 
+{ 
+    if (i == 'o')
+
+    { x++; }    
+
+}
+
+string new_Message = new String(message);
+
+Console.WriteLine(new_Message);
+Console.WriteLine($"'o' appears {x} times.");

@@ -1,0 +1,22 @@
+Console.WriteLine("Enter a number: ");
+int num1 = Convert.ToInt32(Console.ReadLine());
+
+Console.WriteLine("Do you want to convert from fahrenheit or celsius?");
+string choice = Console.ReadLine();
+
+if (choice == "fahrenheit")
+{
+    double result = (num1 - 32) * 5 / 9;
+    Console.WriteLine($"You have {result} celsius!");
+}
+
+else if (choice == "celsius")
+{
+    double result = (num1 * 9/5) + 32;
+    Console.WriteLine($"You have {result} fahrenheit!");  
+}
+
+else 
+{
+    Console.WriteLine("You didn't enter a correct conversion type!");
+}

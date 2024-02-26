@@ -1,0 +1,27 @@
+/*
+Odlicen: 5,5,5,5
+Mnogu dobar: 4,5,3,4
+Dobar: 3,4,5,2
+Da ne zborime: 1,2,1,3
+*/
+int math = 4;
+int science = 5;
+int history = 3;
+int english = 4;
+int finalGrade = (math + science + history + english) / 4;
+if (finalGrade == 5)
+{
+    Console.WriteLine("Pomina so odlicen uspeh! (5)");
+}
+else if (finalGrade == 4)
+{
+    Console.WriteLine("Pomina so mnogu dobar uspeh! (4)");
+}
+else if (finalGrade == 3)
+{
+    Console.WriteLine("Pomina so dobar uspeh! (3)");
+}
+else
+{
+    Console.WriteLine("Nema tuka sto da se vidi :[");
+}

@@ -1,0 +1,9 @@
+Console.Clear();
+Console.WriteLine("Enter a number: ");
+int num2 = Convert.ToInt32(Console.ReadLine());
+int num1 = 0;
+while (num1 <= num2)
+{
+    Console.WriteLine($"{num1}\n");
+    num1 ++;
+}

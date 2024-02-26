@@ -1,0 +1,30 @@
+int[] coinTypes = { 50, 20, 10, 5, 1 };
+int coinsCounter = 0;
+
+Console.WriteLine("Enter the amount of coins you want to calculate");
+var input = Console.ReadLine();
+var coinsAmount2 = input;
+if (Int32.TryParse(input, out int coinsAmount)) //OR    int coinsAmount = Convert.ToInt32(Console.ReadLine());
+{
+    while (coinsAmount > 0)
+    {
+        foreach (int coin in coinTypes)
+        {
+            if (coinsAmount >= coin && coinsAmount % coin == 0)
+            {
+                coinsCounter += coinsAmount / coin;
+                coinsAmount = 0; // Set amount to 0 since it's used all of it.
+            }
+            else if (coinsAmount >= coin)
+            {
+                coinsCounter += coinsAmount / coin;
+                coinsAmount %= coin; // Update amount with the remainder.
+            }
+        }
+    }
+    Console.WriteLine($"The amount {coinsAmount2} required {coinsCounter} coins!");
+}
+else
+{
+    Console.WriteLine("Invalid input, please enter a number!");
+}
