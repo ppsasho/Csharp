@@ -1,0 +1,25 @@
+
+int mkdResult;
+int usdResult;
+int exchangeRate = 56;
+
+Console.WriteLine("Enter amount: ");
+var varAmount = Console.ReadLine();
+Int32.TryParse(varAmount, out int amount);
+
+Console.WriteLine("Enter currency type: USD/MKD");
+var currencyType = Console.ReadLine();
+
+switch(currencyType) {
+    case "USD" :
+        usdResult = amount * exchangeRate;
+		Console.WriteLine($"You have {usdResult} MKD");
+        break;
+    case "MKD" :
+        mkdResult = amount / exchangeRate;
+        Console.WriteLine($"You have {mkdResult} USD");
+        break;
+    default :
+        Console.WriteLine("You have entered an incorrect currency type!");
+        break;
+}
