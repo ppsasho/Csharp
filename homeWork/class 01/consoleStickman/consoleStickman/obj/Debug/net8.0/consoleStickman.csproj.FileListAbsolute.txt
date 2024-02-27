@@ -1,0 +1,15 @@
+C:\Users\Sasho\Desktop\School\C#\Csharp\homeWork\class 01\consoleStickman\consoleStickman\bin\Debug\net8.0\consoleStickman.exe
+C:\Users\Sasho\Desktop\School\C#\Csharp\homeWork\class 01\consoleStickman\consoleStickman\bin\Debug\net8.0\consoleStickman.deps.json
+C:\Users\Sasho\Desktop\School\C#\Csharp\homeWork\class 01\consoleStickman\consoleStickman\bin\Debug\net8.0\consoleStickman.runtimeconfig.json
+C:\Users\Sasho\Desktop\School\C#\Csharp\homeWork\class 01\consoleStickman\consoleStickman\bin\Debug\net8.0\consoleStickman.dll
+C:\Users\Sasho\Desktop\School\C#\Csharp\homeWork\class 01\consoleStickman\consoleStickman\bin\Debug\net8.0\consoleStickman.pdb
+C:\Users\Sasho\Desktop\School\C#\Csharp\homeWork\class 01\consoleStickman\consoleStickman\obj\Debug\net8.0\consoleStickman.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sasho\Desktop\School\C#\Csharp\homeWork\class 01\consoleStickman\consoleStickman\obj\Debug\net8.0\consoleStickman.AssemblyInfoInputs.cache
+C:\Users\Sasho\Desktop\School\C#\Csharp\homeWork\class 01\consoleStickman\consoleStickman\obj\Debug\net8.0\consoleStickman.AssemblyInfo.cs
+C:\Users\Sasho\Desktop\School\C#\Csharp\homeWork\class 01\consoleStickman\consoleStickman\obj\Debug\net8.0\consoleStickman.csproj.CoreCompileInputs.cache
+C:\Users\Sasho\Desktop\School\C#\Csharp\homeWork\class 01\consoleStickman\consoleStickman\obj\Debug\net8.0\consoleStickman.sourcelink.json
+C:\Users\Sasho\Desktop\School\C#\Csharp\homeWork\class 01\consoleStickman\consoleStickman\obj\Debug\net8.0\consoleStickman.dll
+C:\Users\Sasho\Desktop\School\C#\Csharp\homeWork\class 01\consoleStickman\consoleStickman\obj\Debug\net8.0\refint\consoleStickman.dll
+C:\Users\Sasho\Desktop\School\C#\Csharp\homeWork\class 01\consoleStickman\consoleStickman\obj\Debug\net8.0\consoleStickman.pdb
+C:\Users\Sasho\Desktop\School\C#\Csharp\homeWork\class 01\consoleStickman\consoleStickman\obj\Debug\net8.0\consoleStickman.genruntimeconfig.cache
+C:\Users\Sasho\Desktop\School\C#\Csharp\homeWork\class 01\consoleStickman\consoleStickman\obj\Debug\net8.0\ref\consoleStickman.dll
