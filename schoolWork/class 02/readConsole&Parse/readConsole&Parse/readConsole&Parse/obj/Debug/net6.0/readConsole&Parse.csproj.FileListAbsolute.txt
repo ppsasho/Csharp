@@ -1,0 +1,15 @@
+C:\Users\Code\Desktop\G3\Sasho\C#\Csharp\schoolWork\class 02\readConsole&Parse\readConsole&Parse\readConsole&Parse\obj\Debug\net6.0\readConsole&Parse.csproj.AssemblyReference.cache
+C:\Users\Code\Desktop\G3\Sasho\C#\Csharp\schoolWork\class 02\readConsole&Parse\readConsole&Parse\readConsole&Parse\obj\Debug\net6.0\readConsole&Parse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Code\Desktop\G3\Sasho\C#\Csharp\schoolWork\class 02\readConsole&Parse\readConsole&Parse\readConsole&Parse\obj\Debug\net6.0\readConsole&Parse.AssemblyInfoInputs.cache
+C:\Users\Code\Desktop\G3\Sasho\C#\Csharp\schoolWork\class 02\readConsole&Parse\readConsole&Parse\readConsole&Parse\obj\Debug\net6.0\readConsole&Parse.AssemblyInfo.cs
+C:\Users\Code\Desktop\G3\Sasho\C#\Csharp\schoolWork\class 02\readConsole&Parse\readConsole&Parse\readConsole&Parse\obj\Debug\net6.0\readConsole&Parse.csproj.CoreCompileInputs.cache
+C:\Users\Code\Desktop\G3\Sasho\C#\Csharp\schoolWork\class 02\readConsole&Parse\readConsole&Parse\readConsole&Parse\bin\Debug\net6.0\readConsole&Parse.exe
+C:\Users\Code\Desktop\G3\Sasho\C#\Csharp\schoolWork\class 02\readConsole&Parse\readConsole&Parse\readConsole&Parse\bin\Debug\net6.0\readConsole&Parse.deps.json
+C:\Users\Code\Desktop\G3\Sasho\C#\Csharp\schoolWork\class 02\readConsole&Parse\readConsole&Parse\readConsole&Parse\bin\Debug\net6.0\readConsole&Parse.runtimeconfig.json
+C:\Users\Code\Desktop\G3\Sasho\C#\Csharp\schoolWork\class 02\readConsole&Parse\readConsole&Parse\readConsole&Parse\bin\Debug\net6.0\readConsole&Parse.dll
+C:\Users\Code\Desktop\G3\Sasho\C#\Csharp\schoolWork\class 02\readConsole&Parse\readConsole&Parse\readConsole&Parse\bin\Debug\net6.0\readConsole&Parse.pdb
+C:\Users\Code\Desktop\G3\Sasho\C#\Csharp\schoolWork\class 02\readConsole&Parse\readConsole&Parse\readConsole&Parse\obj\Debug\net6.0\readConsole&Parse.dll
+C:\Users\Code\Desktop\G3\Sasho\C#\Csharp\schoolWork\class 02\readConsole&Parse\readConsole&Parse\readConsole&Parse\obj\Debug\net6.0\refint\readConsole&Parse.dll
+C:\Users\Code\Desktop\G3\Sasho\C#\Csharp\schoolWork\class 02\readConsole&Parse\readConsole&Parse\readConsole&Parse\obj\Debug\net6.0\readConsole&Parse.pdb
+C:\Users\Code\Desktop\G3\Sasho\C#\Csharp\schoolWork\class 02\readConsole&Parse\readConsole&Parse\readConsole&Parse\obj\Debug\net6.0\readConsole&Parse.genruntimeconfig.cache
+C:\Users\Code\Desktop\G3\Sasho\C#\Csharp\schoolWork\class 02\readConsole&Parse\readConsole&Parse\readConsole&Parse\obj\Debug\net6.0\ref\readConsole&Parse.dll
