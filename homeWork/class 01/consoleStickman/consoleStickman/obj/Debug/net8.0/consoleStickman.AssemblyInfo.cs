@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("consoleStickman")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3d7a9bf67731d7d342395460d6952c4cb8c78063")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("consoleStickman")]
 [assembly: System.Reflection.AssemblyTitleAttribute("consoleStickman")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
