@@ -1,0 +1,15 @@
+C:\Users\Sasho\Desktop\School\C#\Csharp\homeWork\class 02\avarageNumber\avarageNumber\avarageNumber\bin\Debug\net8.0\avarageNumber.exe
+C:\Users\Sasho\Desktop\School\C#\Csharp\homeWork\class 02\avarageNumber\avarageNumber\avarageNumber\bin\Debug\net8.0\avarageNumber.deps.json
+C:\Users\Sasho\Desktop\School\C#\Csharp\homeWork\class 02\avarageNumber\avarageNumber\avarageNumber\bin\Debug\net8.0\avarageNumber.runtimeconfig.json
+C:\Users\Sasho\Desktop\School\C#\Csharp\homeWork\class 02\avarageNumber\avarageNumber\avarageNumber\bin\Debug\net8.0\avarageNumber.dll
+C:\Users\Sasho\Desktop\School\C#\Csharp\homeWork\class 02\avarageNumber\avarageNumber\avarageNumber\bin\Debug\net8.0\avarageNumber.pdb
+C:\Users\Sasho\Desktop\School\C#\Csharp\homeWork\class 02\avarageNumber\avarageNumber\avarageNumber\obj\Debug\net8.0\avarageNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sasho\Desktop\School\C#\Csharp\homeWork\class 02\avarageNumber\avarageNumber\avarageNumber\obj\Debug\net8.0\avarageNumber.AssemblyInfoInputs.cache
+C:\Users\Sasho\Desktop\School\C#\Csharp\homeWork\class 02\avarageNumber\avarageNumber\avarageNumber\obj\Debug\net8.0\avarageNumber.AssemblyInfo.cs
+C:\Users\Sasho\Desktop\School\C#\Csharp\homeWork\class 02\avarageNumber\avarageNumber\avarageNumber\obj\Debug\net8.0\avarageNumber.csproj.CoreCompileInputs.cache
+C:\Users\Sasho\Desktop\School\C#\Csharp\homeWork\class 02\avarageNumber\avarageNumber\avarageNumber\obj\Debug\net8.0\avarageNumber.sourcelink.json
+C:\Users\Sasho\Desktop\School\C#\Csharp\homeWork\class 02\avarageNumber\avarageNumber\avarageNumber\obj\Debug\net8.0\avarageNumber.dll
+C:\Users\Sasho\Desktop\School\C#\Csharp\homeWork\class 02\avarageNumber\avarageNumber\avarageNumber\obj\Debug\net8.0\refint\avarageNumber.dll
+C:\Users\Sasho\Desktop\School\C#\Csharp\homeWork\class 02\avarageNumber\avarageNumber\avarageNumber\obj\Debug\net8.0\avarageNumber.pdb
+C:\Users\Sasho\Desktop\School\C#\Csharp\homeWork\class 02\avarageNumber\avarageNumber\avarageNumber\obj\Debug\net8.0\avarageNumber.genruntimeconfig.cache
+C:\Users\Sasho\Desktop\School\C#\Csharp\homeWork\class 02\avarageNumber\avarageNumber\avarageNumber\obj\Debug\net8.0\ref\avarageNumber.dll

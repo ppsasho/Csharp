@@ -1,0 +1,15 @@
+C:\Users\Sasho\Desktop\School\C#\Csharp\homeWork\class 02\avarageNumber\swapNumbers\swapNumbers\swapNumbers\obj\Debug\net6.0\swapNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sasho\Desktop\School\C#\Csharp\homeWork\class 02\avarageNumber\swapNumbers\swapNumbers\swapNumbers\obj\Debug\net6.0\swapNumbers.AssemblyInfoInputs.cache
+C:\Users\Sasho\Desktop\School\C#\Csharp\homeWork\class 02\avarageNumber\swapNumbers\swapNumbers\swapNumbers\obj\Debug\net6.0\swapNumbers.AssemblyInfo.cs
+C:\Users\Sasho\Desktop\School\C#\Csharp\homeWork\class 02\avarageNumber\swapNumbers\swapNumbers\swapNumbers\obj\Debug\net6.0\swapNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Sasho\Desktop\School\C#\Csharp\homeWork\class 02\avarageNumber\swapNumbers\swapNumbers\swapNumbers\obj\Debug\net6.0\swapNumbers.sourcelink.json
+C:\Users\Sasho\Desktop\School\C#\Csharp\homeWork\class 02\avarageNumber\swapNumbers\swapNumbers\swapNumbers\bin\Debug\net6.0\swapNumbers.exe
+C:\Users\Sasho\Desktop\School\C#\Csharp\homeWork\class 02\avarageNumber\swapNumbers\swapNumbers\swapNumbers\bin\Debug\net6.0\swapNumbers.deps.json
+C:\Users\Sasho\Desktop\School\C#\Csharp\homeWork\class 02\avarageNumber\swapNumbers\swapNumbers\swapNumbers\bin\Debug\net6.0\swapNumbers.runtimeconfig.json
+C:\Users\Sasho\Desktop\School\C#\Csharp\homeWork\class 02\avarageNumber\swapNumbers\swapNumbers\swapNumbers\bin\Debug\net6.0\swapNumbers.dll
+C:\Users\Sasho\Desktop\School\C#\Csharp\homeWork\class 02\avarageNumber\swapNumbers\swapNumbers\swapNumbers\bin\Debug\net6.0\swapNumbers.pdb
+C:\Users\Sasho\Desktop\School\C#\Csharp\homeWork\class 02\avarageNumber\swapNumbers\swapNumbers\swapNumbers\obj\Debug\net6.0\swapNumbers.dll
+C:\Users\Sasho\Desktop\School\C#\Csharp\homeWork\class 02\avarageNumber\swapNumbers\swapNumbers\swapNumbers\obj\Debug\net6.0\refint\swapNumbers.dll
+C:\Users\Sasho\Desktop\School\C#\Csharp\homeWork\class 02\avarageNumber\swapNumbers\swapNumbers\swapNumbers\obj\Debug\net6.0\swapNumbers.pdb
+C:\Users\Sasho\Desktop\School\C#\Csharp\homeWork\class 02\avarageNumber\swapNumbers\swapNumbers\swapNumbers\obj\Debug\net6.0\swapNumbers.genruntimeconfig.cache
+C:\Users\Sasho\Desktop\School\C#\Csharp\homeWork\class 02\avarageNumber\swapNumbers\swapNumbers\swapNumbers\obj\Debug\net6.0\ref\swapNumbers.dll
