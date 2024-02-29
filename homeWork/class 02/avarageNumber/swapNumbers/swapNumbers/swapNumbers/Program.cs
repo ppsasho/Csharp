@@ -12,10 +12,9 @@ namespace swapNumbers
             Console.WriteLine("Enter your second number:");
             string input2 = Console.ReadLine();
 
-            int secondNum = 0;
 
             Console.WriteLine("Attempting to swap numbers...");
-            bool goodInput = int.TryParse(input1, out int firstNum) && int.TryParse(input2, out secondNum);
+            bool goodInput = int.TryParse(input1, out int firstNum) & int.TryParse(input2, out int secondNum);
             if(!goodInput)
             {
                 Console.WriteLine("You didn't enter two numbers!");

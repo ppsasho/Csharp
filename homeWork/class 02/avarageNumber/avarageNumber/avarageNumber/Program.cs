@@ -10,12 +10,9 @@
             string thirdInput = Console.ReadLine();
             string fourthInput = Console.ReadLine();
 
-            int secondNum = 0;
-            int thirdNum = 0;
-            int fourthNum = 0;
             bool fourNumbers = 
-                int.TryParse(firstInput, out int firstNum) && int.TryParse(secondInput, out secondNum)
-              & int.TryParse(thirdInput, out thirdNum) && int.TryParse(fourthInput, out fourthNum);
+                int.TryParse(firstInput, out int firstNum) & int.TryParse(secondInput, out int secondNum)
+              & int.TryParse(thirdInput, out int thirdNum) & int.TryParse(fourthInput, out int fourthNum);
             if(!fourNumbers)
             {
                 Console.WriteLine("You didn't enter four numbers!");
