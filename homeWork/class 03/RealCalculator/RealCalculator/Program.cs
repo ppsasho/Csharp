@@ -25,37 +25,31 @@
                 Console.WriteLine("Enter an operator: (+, -, *, /)");
                 sumOperator = Console.ReadLine();
 
-                if (sumOperator == "+" || sumOperator == "-"
-                  ||sumOperator == "*" || sumOperator == "/")
+                int sum = 0;
+                switch (sumOperator)
                 {
-                    break;
+                    case "+":
+                        sum = firstNum + secondNum;
+                        break;
+
+                    case "-":
+                        sum = firstNum - secondNum;
+                        break;
+
+                    case "*":
+                        sum = firstNum * secondNum;
+                        break;
+
+                    case "/":
+                        sum = firstNum / secondNum;
+                        break;
+
+                    default:
+                        continue;
                 }
-                Console.WriteLine("The operator is invalid!");
+                Console.WriteLine($"{firstNum} {sumOperator} {secondNum} = {sum}");
+                break;
             }
-
-            int sum = 0;
-            switch (sumOperator)
-            {
-                case "+":
-                    sum = firstNum + secondNum;
-                    break;
-
-                case "-":
-                    sum = firstNum - secondNum;
-                    break;
-
-                case "*":
-                    sum = firstNum * secondNum;
-                    break;
-
-                case "/":
-                    sum = firstNum / secondNum;
-                    break;
-
-                default:
-                    break;
-            }
-            Console.WriteLine($"{firstNum} {sumOperator} {secondNum} = {sum}");
         }
     }
 }
