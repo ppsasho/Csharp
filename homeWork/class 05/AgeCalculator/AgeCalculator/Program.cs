@@ -7,10 +7,9 @@ namespace AgeCalculator
     {
         static void Main(string[] args)
         {
-            DateTime userBirthDate = DateConverter();
+            DateTime userBirthDate = GetUserDate();
             int userAge = AgeCalculator(userBirthDate);
             CheckAge(userAge);
-
         }
         static void CheckAge(int age)
         {
@@ -20,7 +19,7 @@ namespace AgeCalculator
             }
             Console.WriteLine($"You are {age} years old.");
         }
-        static DateTime DateConverter ()
+        static DateTime GetUserDate ()
         {
             while (true)
             {
@@ -62,7 +61,6 @@ namespace AgeCalculator
             int birthDays = GetNumberOfDays(birthDate);
             int currentDays = GetNumberOfDays(currentDate);
             int age = (currentDays - birthDays) / 365;
-
 
             if (currentDate.Day == birthDate.Day && currentDate.Month == birthDate.Month)
             {
