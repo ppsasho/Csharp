@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34616.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dogCreator", "dogCreator\dogCreator.csproj", "{A4915A3A-7537-4924-9BA6-655D7C3DB52C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A4915A3A-7537-4924-9BA6-655D7C3DB52C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A4915A3A-7537-4924-9BA6-655D7C3DB52C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A4915A3A-7537-4924-9BA6-655D7C3DB52C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A4915A3A-7537-4924-9BA6-655D7C3DB52C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8F669089-C0A2-444B-B1AE-389B543F3EC1}
+	EndGlobalSection
+EndGlobal
