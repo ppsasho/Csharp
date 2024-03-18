@@ -35,10 +35,12 @@
         }
         public string Withdrawal(int amount)
         {
-            if(amount > Balance)
+            if (amount > Balance)
             {
                 return "You don't have enough balance!";
-            } else {
+            }
+            else
+            {
                 Balance -= amount;
                 return $"You withdrew {amount}$. You have {Balance}$ left on your account.";
             }
