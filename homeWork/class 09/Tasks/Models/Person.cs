@@ -18,10 +18,14 @@
             FavoriteMusicType = favouriteMusicType;
             FavouriteSongs = favouriteSongs;
         }
+        public string FullName()
+        {
+            return $"{FirstName} {LastName}";
+        }
         public void GetFavouriteSongs()
         {
             if (FavouriteSongs.Count() < 1) Console.WriteLine($"{FirstName} listens to paint dry since he doesn't have any favourite songs");
-            else { Console.WriteLine($"{FirstName}'s favourite songs:"); foreach (Song song in FavouriteSongs) Console.WriteLine($"{song.Title} - {song.Length} [{song.Genre}]"); }
+            else { Console.WriteLine($"{FullName()}'s favourite songs:"); foreach (Song song in FavouriteSongs) Console.WriteLine($"{song.Title} - {song.Length} [{song.Genre}]"); }
         }
     }
 }
