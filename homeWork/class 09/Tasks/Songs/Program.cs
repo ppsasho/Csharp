@@ -37,7 +37,7 @@ namespace Songs
                 Console.WriteLine(findSong);
             } catch (Exception ex)
             {
-                Console.WriteLine($"\nError happened : {ex}\n Please try again.\n");
+                Console.WriteLine($"\nError happened : {ex.Message}\n Please try again.\n");
             }
             
 
@@ -47,14 +47,14 @@ namespace Songs
             Console.WriteLine("\n");
 
             List<IGrouping<Genre, Song>> groupedSongs = songs.GroupBy(x => x.Genre).ToList();
-            //foreach(IGrouping<Genre, Song> group in groupedSongs)
-            //{
-            //    Console.WriteLine(group.Key);
-            //    foreach(Song s in   )
-            //    {
-            //        Console.WriteLine(s.Title);
-            //    }
-            //}
+            foreach (IGrouping<Genre, Song> group in groupedSongs)
+            {
+                Console.WriteLine(group.Key);
+                foreach (Song s in group )
+                {
+                    Console.WriteLine(s.Title);
+                }
+            }
 
             List<Song> songsForJerry = songs.Where(x => x.Title.StartsWith("B")).ToList();
             List<Song> songsForMaria = songs.Where(x => x.Length > 360).ToList();
