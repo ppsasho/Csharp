@@ -15,12 +15,11 @@ namespace swapNumbers
 
             Console.WriteLine("Attempting to swap numbers...");
             bool goodInput = int.TryParse(input1, out int firstNum) & int.TryParse(input2, out int secondNum);
-            if(!goodInput)
+            if (!goodInput)
             {
                 Console.WriteLine("You didn't enter two numbers!");
                 return;
             }
-
             int firstTemp = firstNum;
             int secondTemp = secondNum;
 
