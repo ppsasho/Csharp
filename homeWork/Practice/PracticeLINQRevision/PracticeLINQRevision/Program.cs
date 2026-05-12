@@ -46,12 +46,16 @@
             var lastGroceryProduct = products.LastOrDefault(product => product.Category == ProductCategory.Groceries);
             var firstProductOver1000 = products.FirstOrDefault(product => product.Price > 1000);
             var highStockGroceries = products.Where(product => product.Category == ProductCategory.Groceries && product.Stock > 150).Select(x => x.Title).ToList();
-
-
-
-            //Console.WriteLine(firstProductOver1000.Title);
+            var hermaniTea = products.FirstOrDefault(product => product.Brand.Contains("Hemani Tea"));
+            var ratings30And50 = products.Where(product => product.Rating >= 30 && product.Rating <= 50).Select(x => x.Rating).ToList();
+            var avgPrice = products.Average(x => x.Price);
+            var sumStock = products.Sum(x => x.Stock);
+            bool anyOver2000 = products.Any(product => product.Price > 2000);
+            var mostExpensiveLaptop = products.Where(x => x.Category == ProductCategory.Laptops).OrderBy(x => x.Price).FirstOrDefault();
+            var titleAndDescriptionSkincare = products.Where(x => x.Category == ProductCategory.Skincare).SelectMany(x => x.Title x.Description)
+            Console.WriteLine(anyOver2000);
             //productsSkinCare.ToList().ForEach(x => Console.WriteLine($"{x.Title}"));
-            highStockGroceries.ToList().ForEach(x => Console.WriteLine(x));
+            //highStockGroceries.ToList().ForEach(x => Console.WriteLine(x));
         }
 
 
